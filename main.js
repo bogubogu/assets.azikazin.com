@@ -15,8 +15,8 @@ var fireButton;
 var mainState = {
     preload:function(){
 
-    game.load.image('starfield' , "assets/starfield.png");
-    game.load.image('player', "assets/player.png");
+    game.load.image('starfield' , "https://raw.githubusercontent.com/bogubogu/web2/master/assets/starfield.png");
+    game.load.image('player', "https://raw.githubusercontent.com/bogubogu/web2/master/assets/player.png");
     
 
     },
